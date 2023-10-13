@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":3.1,
+  "0-100 mph":6,
+  "0-120 mph":12.7,
+  "0-200 km/h":8.9,
+  "0-60 mph":3,
+  "100-0 km/h":30.9,
+  "100-200 km/h":5.8,
+  "60-0 mph":93.2,
+  "60-100 mph":3,
+  "60-120 mph":8.2,
+  "BoundingBox":[
+    [
+      -0.66,
+      -1.3,
+      -0.251
+    ],
+    [
+      1.28,
+      3.725,
+      1.09
+    ]
+  ],
+  "Braking G":1.273,
+  "Config Type":"Custom",
+  "Configuration":"Drag",
+  "Description":"Who would have thought a heap of garbage could be king of the drag strip?",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"Turbo + N2O",
+  "Off-Road Score":25,
+  "Performance Class":"10",
+  "Population":5,
+  "Power":696,
+  "PowerPeakRPM":"5900 - 6750",
+  "Propulsion":"ICE",
+  "Top Speed":69.5582113,
+  "Torque":845,
+  "TorquePeakRPM":"5100 - 5950",
+  "Transmission":"Automatic",
+  "Value":25000,
+  "Weight":1245,
+  "Weight/Power":1.7887931,
+  "defaultPaintName1":"Opal Green",
+  "defaultPaintName2":"Cactus Green",
+  "defaultPaintName3":"Fire Red"
+}

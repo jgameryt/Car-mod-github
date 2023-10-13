@@ -1,0 +1,45 @@
+{
+  "0-100 km/h":8.8,
+  "0-100 mph":22.2,
+  "0-120 mph":31.4,
+  "0-200 km/h":52.1,
+  "0-60 mph":8.3,
+  "100-0 km/h":37.3,
+  "100-200 km/h":43.3,
+  "60-0 mph":114,
+  "60-100 mph":13.9,
+  "60-120 mph":24.9,
+  "BoundingBox":[
+    [
+      -0.66,
+      -1.3,
+      -0.2
+    ],
+    [
+      1.28,
+      3.05,
+      1.09
+    ]
+  ],
+  "Braking G":1.054,
+  "Config Type":"Factory",
+  "Configuration":"GTR",
+  "Description":"Top of the line model with increased power, body colored trim, sport suspension and wheels",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":32,
+  "Performance Class":"5",
+  "Population":9500,
+  "Power":140,
+  "PowerPeakRPM":"5500 - 6250",
+  "Propulsion":"ICE",
+  "Top Speed":57.2586858,
+  "Torque":205,
+  "TorquePeakRPM":"3700 - 4450",
+  "Transmission":"Manual",
+  "Value":10500,
+  "Weight":1220,
+  "Weight/Power":8.71428571,
+  "defaultPaintName1":"Seafoam Green"
+}

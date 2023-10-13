@@ -1,0 +1,45 @@
+{
+  "0-100 km/h":7.2,
+  "0-100 mph":15.8,
+  "0-120 mph":15.9,
+  "0-200 km/h":27.7,
+  "0-60 mph":6.9,
+  "100-0 km/h":35.4,
+  "100-200 km/h":20.4,
+  "60-0 mph":107.8,
+  "60-100 mph":8.9,
+  "60-120 mph":10.9,
+  "BoundingBox":[
+    [
+      -0.66,
+      -1.3,
+      -0.2
+    ],
+    [
+      1.28,
+      3.05,
+      1.09
+    ]
+  ],
+  "Braking G":1.11,
+  "Config Type":"Custom",
+  "Configuration":"Street Drift",
+  "Description":"Turbocharged and equipped with race suspension and custom wheels",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"Turbo + N2O",
+  "Off-Road Score":21,
+  "Performance Class":"6",
+  "Population":400,
+  "Power":266,
+  "PowerPeakRPM":"5400 - 6300",
+  "Propulsion":"ICE",
+  "Top Speed":62.3608778,
+  "Torque":395,
+  "TorquePeakRPM":4000,
+  "Transmission":"Manual",
+  "Value":18000,
+  "Weight":1220,
+  "Weight/Power":4.58646617,
+  "defaultPaintName1":"Brilliant Blue"
+}

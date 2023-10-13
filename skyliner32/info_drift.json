@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":7.1,
+  "0-100 mph":14.3,
+  "0-120 mph":15.1,
+  "0-200 km/h":23.6,
+  "0-60 mph":6.4,
+  "100-0 km/h":35,
+  "100-200 km/h":16.5,
+  "60-0 mph":106.3,
+  "60-100 mph":8,
+  "60-120 mph":9,
+  "BoundingBox":[
+    [
+      -0.66,
+      -1.31,
+      -0.2
+    ],
+    [
+      1.28,
+      3.095,
+      1.09
+    ]
+  ],
+  "Braking G":1.125,
+  "Config Type":"Custom",
+  "Configuration":"Drift",
+  "Description":"Designed to go sideways with specialized drift parts and an upgraded turbo",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"Turbo",
+  "Off-Road Score":21,
+  "Performance Class":"8",
+  "Population":20,
+  "Power":234,
+  "PowerPeakRPM":"5800 - 6450",
+  "Propulsion":"ICE",
+  "Top Speed":66.1983799,
+  "Torque":290,
+  "TorquePeakRPM":"4350 - 5800",
+  "Transmission":"Manual",
+  "Value":28500,
+  "Weight":1235,
+  "Weight/Power":5.27777778,
+  "defaultPaintName1":"Solar Yellow",
+  "defaultPaintName2":"Pearl White",
+  "defaultPaintName3":"Pearl White"
+}
